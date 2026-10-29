@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">Hi 👋, I'm K Khan/h1>
+<h1 align="center">Hi 👋, I'm K Khan /h1>
 <h3 align="center">🤖 Data Analyst & Business Analyst | Turning Data into Insights 🚀</h3>
 
 <p align="center">
